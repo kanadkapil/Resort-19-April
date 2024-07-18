@@ -9,12 +9,24 @@ a {
     font-weight: 400;
     font-style: normal;
 }
-
+/* colors  */
+.color-1{
+    background-color: #776B5D;
+}
+.color-2{
+    background-color: #b0a695;
+}
+.color-3{
+    background-color: #d2cf99;
+}
+.color-4{
+    background-color: #ebe3d5;
+}
 .hero-section {
     position: relative;
     background: url('Homepage-hero-pic-1.jpg') no-repeat center center;
     background-size: cover;
-    height: 95vh;
+    height: 35vh;
     color: white;
 }
 
